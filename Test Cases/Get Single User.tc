@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Single User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e83f2a43-ac4c-4ca9-ae64-36e65fffc68b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ae4f640-b9e9-4373-b7c9-c78a99f719ce</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>7ae4f640-b9e9-4373-b7c9-c78a99f719ce</id>
+      <masked>false</masked>
+      <name>v_nomor</name>
+   </variable>
+</TestCaseEntity>
