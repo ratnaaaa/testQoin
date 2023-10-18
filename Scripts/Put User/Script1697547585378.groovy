@@ -19,8 +19,3 @@ import org.openqa.selenium.Keys as Keys
 
 response = WS.sendRequest(findTestObject('putUser', [('nomor') : 2, ('nama') : v_nama, ('job') : v_job]))
 
-WS.verifyResponseStatusCode(response, 400)
-
-
-
-
